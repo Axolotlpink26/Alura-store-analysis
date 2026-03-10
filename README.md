@@ -61,7 +61,6 @@ Para ejecutar este proyecto necesitas tener instalado:
 
 Instalar las dependencias necesarias:
 
-```bash
 pip install pandas matplotlib
 
 ## 📊 Visualizaciones generadas
